@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidSmartCity</string>
+    <string name="title_message">Choose a Category you want to visit.</string>
+    <string name="Amusement">Amusement Park</string>
+    <string name="water">Water Park</string>
+    <string name="sea">Sea Side</string>
+    <string name="other">Others</string>
+</resources>
